@@ -1,6 +1,0 @@
-(defun main ()
-  )
-
-
-
-(main)
